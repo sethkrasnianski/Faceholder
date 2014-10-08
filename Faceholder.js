@@ -1,6 +1,3 @@
-// Stop throwing up alone over IE8, ever again.
-// Let Faceholder hold your face while you do.
-// And let it polyfill your placeholders.
 (function($) {
   this._Placeholders = new Array(); // Temp field array
 
